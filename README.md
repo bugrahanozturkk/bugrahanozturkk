@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buğrahan.</h1>
 <h3 align="center">A passionate Full Stack developer from Turkey</h3>
 
-- 📫 How to reach me **bugrahanoz061@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bugrahanozturk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugrahanozturk" height="30" width="40" /></a>
