@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buğrahan.</h1>
-<h3 align="center">A passionate Full Stack developer from Turkey</h3>
+<h3 align="center">A passionate Backend Developer from Turkey</h3>
 
 📫 How to reach me **bugrahanoz061@gmail.com**
 
