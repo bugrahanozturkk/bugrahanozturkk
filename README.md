@@ -3,8 +3,6 @@
 
 📫 How to reach me **bugrahanoz061@gmail.com**
 
-<a href="https://app.daily.dev/thebozturk" align="right"><img src="https://api.daily.dev/devcards/2126391257e14595b0ef3578572935d8.png?r=khf" width="400" alt="Buğrahan Öztürk's Dev Card"/></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bugrahanozturk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bugrahanozturk" height="30" width="40" /></a>
