@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Buğrahan Öztürk</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebozturk&label=Profile%20views&color=0e75b6&style=flat" alt="thebozturk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebozturk" alt="thebozturk" /></a> </p>
-
 - 📫 How to reach me **bugrahanoz061@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
